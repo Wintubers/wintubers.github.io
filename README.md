@@ -1,2 +1,2 @@
 # wintubers.github.io
-main page of the Wintuber Wiki
+listing all projects and all Wintubers
